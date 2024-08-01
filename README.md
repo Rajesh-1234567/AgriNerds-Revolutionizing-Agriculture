@@ -1,4 +1,7 @@
 # AgriNerds - Transforming Agriculture
+Website - https://harvestharbor.netlify.app
+
+ChatBot - https://huggingface.co/spaces/Sipra1304/AgrobotSaarthi
 <img src="farm1.png" alt="Agriculture" width="1000" height="500">
 
 ## Revolutionizing the Farming Sector
